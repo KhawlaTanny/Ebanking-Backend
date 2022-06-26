@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ebanking-main.iml" filepath="$PROJECT_DIR$/.idea/Ebanking-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebanking-main/ebank-backend.iml" filepath="$PROJECT_DIR$/Ebanking-main/ebank-backend.iml" />
+    </modules>
+  </component>
+</project>
